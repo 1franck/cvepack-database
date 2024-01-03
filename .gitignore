@@ -1,1 +1,4 @@
-.idea
+/.idea
+/tmp
+/*.ps1
+/*.sh
