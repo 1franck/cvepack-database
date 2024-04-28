@@ -4,4 +4,4 @@ This repository contains a SQLite database of CVEs compiled from [GitHub Advisor
 
 This repository is updated regularly and programmatically.
 
-Last update: 2024-04-27 06:48:46
+Last update: 2024-04-28 06:47:53
